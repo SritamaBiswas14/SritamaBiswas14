@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](My GitHub Profile)
 
-- 💬 Ask me about **C, Linux, LaTeX**
+- 💬 Ask me about **C, Python, Linux, LaTeX**
 
 - 📫 How to reach me **Sritama810@gmail.com**
 
